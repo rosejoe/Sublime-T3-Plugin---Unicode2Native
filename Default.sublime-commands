@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Unicode2Native: Reload with Encoding",
+        "command": "unicode2native"
+    },
+    {
+        "caption": "Native2Unicode: Reload with Encoding",
+        "command": "native2unicode"
+    }
+]
